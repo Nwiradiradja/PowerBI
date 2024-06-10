@@ -1,3 +1,5 @@
-# PowerBI Projects
+# Sprint 1
 
-A repository for all PowerBI Projects
+## Tasks
+* Import Dataset
+* Select Background for Dashboard
