@@ -1,3 +1,3 @@
-# Sprint 2
+# HR Analytics Dashboard Project
 
 
