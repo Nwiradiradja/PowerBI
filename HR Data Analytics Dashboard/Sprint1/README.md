@@ -9,4 +9,4 @@ Started off by importing the CSV data set
 
 After importing the CSV dataset I set a background for the dashboard as shown below
 
-![](https://github.com/Nwiradiradja/PowerBI/blob/main/Sprint1/Sprint1%20Image.jpg?raw=true)
+![](https://github.com/Nwiradiradja/PowerBI/blob/main/HR%20Data%20Analytics%20Dashboard/Sprint1/Sprint1%20Image.jpg?raw=true)
